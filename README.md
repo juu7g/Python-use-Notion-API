@@ -26,9 +26,9 @@ Work with Notion databases using the Notion API.
 
 追加される Notion データベースと追加するデータは次のリンクで紹介したものが必要です。  
 
-- データベース：『[ブログ記事管理](https://www.notion.so/03bc19abb3594cc5bf1d156615aab943?v=53c6671107e543e0b34c2e04ad09e4f0)??』
-- データベースの記事：『[ブログの記事を管理する(使い方)【Notionデータベース】](/entry/notion/blog/usage)??』
-- 追加するデータの記事：『[はてなブログのスターとブックマークの数を取得するアプリ【フリー】](get-stars-bm-exe)??』
+- データベース：『[ブログ記事管理](https://www.notion.so/03bc19abb3594cc5bf1d156615aab943?v=53c6671107e543e0b34c2e04ad09e4f0)』
+- データベースの記事：『[ブログの記事を管理する(使い方)【Notionデータベース】](/entry/notion/blog/usage)』
+- 追加するデータの記事：『[はてなブログのスターとブックマークの数を取得するアプリ【フリー】](get-stars-bm-exe)』
 
 ## 使い方 Usage
 
